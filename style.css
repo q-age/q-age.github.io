@@ -1316,6 +1316,7 @@ label {
 .payment{
     width: 100%;
     text-align: center;
+    margin: 5px;
 }
 
 .hero {
