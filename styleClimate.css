@@ -1363,13 +1363,17 @@ label {
 }
 
 .hero-inner {
-    position: relative;
+    display: flex;
+    justify-content: center;
     z-index: 1
 }
 
 .hero-copy {
-    position: relative;
-    margin-bottom: 48px
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 48px;
+    justify-content:center;
+    align-items: center;
 }
 
 @media (min-width: 641px) {
