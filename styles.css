@@ -214,6 +214,14 @@ header{
     margin-top: 0.5rem;
 }
 
+.cyberPriceTable{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
 .footerContent{
     max-width: 100%;
     height: fit-content;
