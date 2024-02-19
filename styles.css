@@ -220,6 +220,7 @@ header{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    text-align: center;
     width: 90% !important;
     height: auto;
 }
