@@ -194,12 +194,14 @@ header{
 }
 
 .mainPara{
+    width: 90%;
     text-align: center;
     font-family: monospace;
     font-size: large;
     color: rgb(86, 86, 86);
     margin: 1.4rem;
     margin-top: 2rem;
+    text-align: justify;
 }
 
 .mainList{
