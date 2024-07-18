@@ -211,6 +211,9 @@ header{
 
 .mainPoint{
     padding: 0.2rem;
+    font-family: monospace;
+    font-size: large;
+    color: rgb(86, 86, 86);
 }
 
 .cyberPricing{
