@@ -188,7 +188,7 @@ header{
     text-align: center;
     font-family: monospace;
     font-size: large;
-    color: rgb(86, 86, 86);
+    color: rgb(65, 65, 65);
     margin-top: 0;
     text-transform: uppercase;
 }
@@ -198,7 +198,7 @@ header{
     text-align: center;
     font-family: monospace;
     font-size: large;
-    color: rgb(86, 86, 86);
+    color: rgb(65, 65, 65);
     margin: 1.4rem;
     margin-top: 2rem;
     text-align: justify;
@@ -213,7 +213,7 @@ header{
     padding: 0.2rem;
     font-family: monospace;
     font-size: large;
-    color: rgb(86, 86, 86);
+    color: rgb(65, 65, 65);
 }
 
 .cyberPricing{
